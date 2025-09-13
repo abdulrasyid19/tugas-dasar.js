@@ -1,4 +1,4 @@
-<!-- Algoritma Menghitung Nilai Akhir dan Grade
+Algoritma Menghitung Nilai Akhir dan Grade
 
 1. Mulai
 
@@ -32,7 +32,7 @@ nilai akhir = (0.3 * tugas) + (0.3 * UTS) + (0.4 * UAS)
 
 
 
-<!-- 
+
 tugas no 1
  
 // Program Menghitung Nilai Akhir dan Grade
@@ -64,7 +64,7 @@ console.log("nilai tugas:", tugas);
 console.log("nilai tugas", uts);
 console.log("nilai tuhgas", uas);
 console.log("Nilai Akhir:", nilaiAkhir);
-console.log("Grade:", grade); -->
+console.log("Grade:", grade);
 
 
 //Draw.io
