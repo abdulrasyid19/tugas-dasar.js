@@ -69,3 +69,7 @@ console.log("Grade:", grade); -->
 
 
 ![alt text](<Untitled Diagram.drawio.svg>)
+
+
+
+https://app.diagrams.net/#G1Zkxc8o0pRYValOOEHIK37sqT0QLpJNv8#%7B%22pageId%22%3A%22twHzyxoeGzETjlyY-2H2%22%7D
