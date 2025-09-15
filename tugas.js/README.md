@@ -33,7 +33,7 @@ nilai akhir = (0.3 * tugas) + (0.3 * UTS) + (0.4 * UAS)
 
 
 
-tugas no 1
+```tugas no 1
  
 // Program Menghitung Nilai Akhir dan Grade
 
@@ -65,11 +65,12 @@ console.log("nilai tugas", uts);
 console.log("nilai tuhgas", uas);
 console.log("Nilai Akhir:", nilaiAkhir);
 console.log("Grade:", grade);
+```
 
 
 //TUGAS NO 2
 //Draw.io 
 
-https://app.diagrams.net/#G1Zkxc8o0pRYValOOEHIK37sqT0QLpJNv8#%7B%22pageId%22%3A%22twHzyxoeGzETjlyY-2H2%22%7D
 
-// untuk Draw.io silahkan minta akses lewat google Drive
+
+![nilaimahasiswa](rosyid.png)
